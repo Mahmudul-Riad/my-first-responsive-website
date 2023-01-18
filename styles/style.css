@@ -621,8 +621,8 @@ color: #727272;
     .btn-2{
 
       
-        position: absolute;
-        top: 510%;
+        position: relative;
+        top: 80%;
         left: 30%;
         
     
